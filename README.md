@@ -9,6 +9,6 @@ and "file" provide from-data as file of xslx (excel) format.
 localhost:8080/api/allEmployees
 it will fetch all employees of database which was inserted by excel sheet.
 
-# excel sheet contains 4 columns
+# excel sheet contains 4 columns(sheet name should be "sheet1")
 id ,department ,name ,salary
 
